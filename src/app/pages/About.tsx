@@ -122,7 +122,7 @@ export function About() {
           <h2 className="text-center mb-12">{t("about.experience_title")}</h2>
           <div className="space-y-8">
             <div className="border-l-4 border-primary pl-6">
-              <div className="text-sm text-muted-foreground mb-1">2021 - 2023</div>
+              <div className="text-sm text-muted-foreground mb-1">2023 - 2025</div>
               <h3 className="mb-2">{t("about.manager_position")}</h3>
               <p className="text-muted-foreground mb-2">{t("about.manager_company")}</p>
               <p className="text-muted-foreground">
