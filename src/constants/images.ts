@@ -4,9 +4,9 @@ export const images = {
   },
   portfolio: {
     // Project 1: Бьюти-бот Зефирка AI 
-    project_1_main: "/images/project_1_main.png",
-    project_1_carousel_1: "/images/project_1_carousel_1.png",
-    project_1_carousel_2: "/images/project_1_carousel_2.png",
+    project_1_main: "/public/images/project_1_main.png",
+    project_1_carousel_1: "/public/images/project_1_carousel_1.png",
+    project_1_carousel_2: "/public/images/project_1_carousel_2.png",
 
     // Project 2: Карта «Тройка» в регионах
     project_2_main: "/images/project_2_main.png",
