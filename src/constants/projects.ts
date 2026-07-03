@@ -189,7 +189,7 @@ export const projects: ProjectData[] = [
       },
     ],
     tools: ["Adobe Photoshop", "Adobe Illustrator", "Figma"],
-    link: "https://www.m24.ru/news/transport/15102025/838595",    
+    link: "https://sbertroika.ru/nso-cards",    
   },
   // {
   //   id: "3",
