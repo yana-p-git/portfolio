@@ -262,7 +262,7 @@ en: {
     success_message: "Your message has been sent. I'll get back to you soon.",
   },
   footer: {
-    tagline: "Digital Producer & AI Creator — creating products that work.",
+    tagline: "Senior designer",
     quick_links: "Quick Links",
     connect: "Connect",
     copyright: "© 2026 Yana Poymanova. All rights reserved.",
@@ -475,7 +475,7 @@ ru: {
     success_message: "Ваше сообщение отправлено. Я свяжусь с\u00A0вами в\u00A0ближайшее время!",
   },
   footer: {
-    tagline: "Digital Producer и\u00A0AI-креатор — создаю продукты, которые работают.",
+    tagline: "Senior designer",
     quick_links: "Быстрые ссылки",
     connect: "Контакты",
     copyright: "© 2026 Яна Пойманова. Все права защищены.",
